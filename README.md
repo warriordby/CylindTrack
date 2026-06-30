@@ -87,11 +87,9 @@ The following animated visualizations replace the previous static qualitative pa
       <img src="assets/readme/animations/depth_boundary_jrdb_tressider.gif" width="100%" alt="JRDB tressider-2019-04-26_0">
       <br><sub>Depth: JRDB tressider</sub>
     </td>
-    <td width="33%" align="center">
-      <img src="assets/readme/animations/boundary_quadtrack_0005.gif" width="100%" alt="QuadTrack sequence 0005">
-      <br><sub>Boundary Crossing: QuadTrack 0005</sub>
-    </td>
   </tr>
+</table>
+</table>
   <tr>
     <td width="50%" align="center">
       <img src="assets/readme/animations/boundary_quadtrack_0006.gif" width="100%" alt="QuadTrack sequence 0006">
@@ -100,6 +98,10 @@ The following animated visualizations replace the previous static qualitative pa
     <td width="50%" align="center">
       <img src="assets/readme/animations/boundary_quadtrack_0008.gif" width="100%" alt="QuadTrack sequence 0008">
       <br><sub>Boundary Crossing: QuadTrack 0008</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="assets/readme/animations/boundary_quadtrack_0005.gif" width="100%" alt="QuadTrack sequence 0005">
+      <br><sub>Boundary Crossing: QuadTrack 0005</sub>
     </td>
   </tr>
 </table>
