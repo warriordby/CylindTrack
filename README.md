@@ -80,29 +80,25 @@ The following animated visualizations replace the previous static qualitative pa
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="assets/readme/animations/normal_jrdb_nvidia_aud_compare.gif" width="100%" alt="JRDB nvidia-aud CylindTrack comparison">
-      <br><sub>JRDB CylindTrack Comparison</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="assets/readme/animations/depth_boundary_jrdb_nvidia_aud.gif" width="100%" alt="JRDB nvidia-aud depth-related boundary association">
+      <img src="assets/readme/animations/depth_boundary_jrdb_nvidia_aud.gif" width="100%" alt="JRDB nvidia-aud-2019-01-25_0">
       <br><sub>Depth: JRDB nvidia-aud</sub>
     </td>
     <td width="33%" align="center">
-      <img src="assets/readme/animations/depth_boundary_jrdb_tressider.gif" width="100%" alt="JRDB tressider depth-related boundary association">
+      <img src="assets/readme/animations/depth_boundary_jrdb_tressider.gif" width="100%" alt="JRDB tressider-2019-04-26_0">
       <br><sub>Depth: JRDB tressider</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="assets/readme/animations/boundary_quadtrack_0005.gif" width="100%" alt="QuadTrack sequence 0005">
+      <br><sub>Boundary Crossing: QuadTrack 0005</sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
-      <img src="assets/readme/animations/boundary_quadtrack_0005.gif" width="100%" alt="QuadTrack sequence 0005 boundary-crossing visualization">
-      <br><sub>Boundary Crossing: QuadTrack 0005</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="assets/readme/animations/boundary_quadtrack_0006.gif" width="100%" alt="QuadTrack sequence 0006 boundary-crossing visualization">
+    <td width="50%" align="center">
+      <img src="assets/readme/animations/boundary_quadtrack_0006.gif" width="100%" alt="QuadTrack sequence 0006">
       <br><sub>Boundary Crossing: QuadTrack 0006</sub>
     </td>
-    <td width="33%" align="center">
-      <img src="assets/readme/animations/boundary_quadtrack_0008.gif" width="100%" alt="QuadTrack sequence 0008 boundary-crossing visualization">
+    <td width="50%" align="center">
+      <img src="assets/readme/animations/boundary_quadtrack_0008.gif" width="100%" alt="QuadTrack sequence 0008">
       <br><sub>Boundary Crossing: QuadTrack 0008</sub>
     </td>
   </tr>
