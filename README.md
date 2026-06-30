@@ -59,17 +59,17 @@ The following animated visualizations replace the previous static qualitative pa
 
 <p align="center">
   <img src="assets/readme/animations/normal_jrdb_nvidia_aud_original.gif" width="95%" alt="JRDB nvidia-aud original comparison">
-  <br><sub>JRDB: nvidia-aud-2019-01-25_0</sub>
+  <br><sub>JRDB nvidia-aud-2019-01-25_0</sub>
 </p>
 
 <p align="center">
   <img src="assets/readme/animations/normal_quadtrack_0009_original.gif" width="95%" alt="QuadTrack sequence 0009 normal-scene comparison">
-  <br><sub>QuadTrack: sequence 0009</sub>
+  <br><sub>QuadTrack sequence 0009</sub>
 </p>
 
 <p align="center">
   <img src="assets/readme/animations/normal_quadtrack_0012_original.gif" width="95%" alt="QuadTrack sequence 0012 normal-scene comparison">
-  <br><sub>QuadTrack: sequence 0012</sub>
+  <br><sub>QuadTrack sequence 0012</sub>
 </p>
 
 ### Boundary Crossing Scene Comparisons
@@ -90,15 +90,15 @@ The following animated visualizations replace the previous static qualitative pa
   <tr>
     <td width="33%" align="center">
       <img src="assets/readme/animations/boundary_quadtrack_0006.gif" width="100%" alt="QuadTrack sequence 0006">
-      <br><sub>QuadTrack 0006</sub>
+      <br><sub>QuadTrack sequence 0006</sub>
     </td>
     <td width="33%" align="center">
       <img src="assets/readme/animations/boundary_quadtrack_0008.gif" width="100%" alt="QuadTrack sequence 0008">
-      <br><sub>QuadTrack 0008</sub>
+      <br><sub>QuadTrack sequence 0008</sub>
     </td>
     <td width="33%" align="center">
       <img src="assets/readme/animations/boundary_quadtrack_0005.gif" width="100%" alt="QuadTrack sequence 0005">
-      <br><sub>QuadTrack 0005</sub>
+      <br><sub>QuadTrack sequence 0005</sub>
     </td>
   </tr>
 </table>
