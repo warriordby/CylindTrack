@@ -52,17 +52,88 @@ During association, CylindTrack uses horizontal-periodic pixel-vertical IoU, DTM
 </p>
 
 ## Visualizations
-Qualitative visualizations show that cylindrical modeling keeps trajectories continuous when the same target appears near opposite ERP boundaries, while direct UV tracking is more prone to fragmentation.
+
+The following videos replace the previous static qualitative panels. They show normal-scene comparisons, depth-related association behavior, and boundary-crossing cases where cylindrical modeling preserves trajectory continuity across panoramic seams.
+
+### Normal-Scene Comparisons
+
+**JRDB: nvidia-aud-2019-01-25_0, original comparison**
 
 <p align="center">
-  <img src="assets/readme/visualization_quadtrack.png" width="95%" alt="QuadTrack boundary-crossing visualization">
+  <video src="assets/readme/videos/normal_jrdb_nvidia_aud_original.mp4" width="95%" controls muted loop playsinline></video>
 </p>
+
+[Open MP4](assets/readme/videos/normal_jrdb_nvidia_aud_original.mp4)
+
+**JRDB: nvidia-aud-2019-01-25_0, CylindTrack comparison**
 
 <p align="center">
-  <img src="assets/readme/visualization_jrdb.png" width="95%" alt="JRDB boundary-crossing visualization">
+  <video src="assets/readme/videos/normal_jrdb_nvidia_aud_compare.mp4" width="95%" controls muted loop playsinline></video>
 </p>
 
-tracking results:
+[Open MP4](assets/readme/videos/normal_jrdb_nvidia_aud_compare.mp4)
+
+**QuadTrack: sequence 0009**
+
+<p align="center">
+  <video src="assets/readme/videos/normal_quadtrack_0009_original.mp4" width="95%" controls muted loop playsinline></video>
+</p>
+
+[Open MP4](assets/readme/videos/normal_quadtrack_0009_original.mp4)
+
+**QuadTrack: sequence 0012**
+
+<p align="center">
+  <video src="assets/readme/videos/normal_quadtrack_0012_original.mp4" width="95%" controls muted loop playsinline></video>
+</p>
+
+[Open MP4](assets/readme/videos/normal_quadtrack_0012_original.mp4)
+
+### Depth-Related Visualizations
+
+**JRDB boundary association: nvidia-aud-2019-01-25_0**
+
+<p align="center">
+  <video src="assets/readme/videos/depth_boundary_jrdb_nvidia_aud.mp4" width="95%" controls muted loop playsinline></video>
+</p>
+
+[Open MP4](assets/readme/videos/depth_boundary_jrdb_nvidia_aud.mp4)
+
+**JRDB boundary association: tressider-2019-04-26_0**
+
+<p align="center">
+  <video src="assets/readme/videos/depth_boundary_jrdb_tressider.mp4" width="95%" controls muted loop playsinline></video>
+</p>
+
+[Open MP4](assets/readme/videos/depth_boundary_jrdb_tressider.mp4)
+
+### Boundary-Crossing Visualizations
+
+**QuadTrack: sequence 0005**
+
+<p align="center">
+  <video src="assets/readme/videos/boundary_quadtrack_0005.mp4" width="95%" controls muted loop playsinline></video>
+</p>
+
+[Open MP4](assets/readme/videos/boundary_quadtrack_0005.mp4)
+
+**QuadTrack: sequence 0006**
+
+<p align="center">
+  <video src="assets/readme/videos/boundary_quadtrack_0006.mp4" width="95%" controls muted loop playsinline></video>
+</p>
+
+[Open MP4](assets/readme/videos/boundary_quadtrack_0006.mp4)
+
+**QuadTrack: sequence 0008**
+
+<p align="center">
+  <video src="assets/readme/videos/boundary_quadtrack_0008.mp4" width="95%" controls muted loop playsinline></video>
+</p>
+
+[Open MP4](assets/readme/videos/boundary_quadtrack_0008.mp4)
+
+Tracking results:
 
 | Dataset | HOTA | BCIC | IDF1 | AssA | MOTA | FPS |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
