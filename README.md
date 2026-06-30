@@ -88,6 +88,9 @@ The following animated visualizations replace the previous static qualitative pa
       <br><sub>Depth: JRDB tressider</sub>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="33%" align="center">
       <img src="assets/readme/animations/boundary_quadtrack_0006.gif" width="100%" alt="QuadTrack sequence 0006">
