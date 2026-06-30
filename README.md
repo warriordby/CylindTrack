@@ -57,23 +57,19 @@ The following animated visualizations replace the previous static qualitative pa
 
 ### Obstruction Scene Comparisons
 
-**JRDB: nvidia-aud-2019-01-25_0**
-
 <p align="center">
   <img src="assets/readme/animations/normal_jrdb_nvidia_aud_original.gif" width="95%" alt="JRDB nvidia-aud original comparison">
+  <br><sub>JRDB: nvidia-aud-2019-01-25_0</sub>
 </p>
-
-
-**QuadTrack: sequence 0009**
 
 <p align="center">
   <img src="assets/readme/animations/normal_quadtrack_0009_original.gif" width="95%" alt="QuadTrack sequence 0009 normal-scene comparison">
+  <br><sub>QuadTrack: sequence 0009</sub>
 </p>
-
-**QuadTrack: sequence 0012**
 
 <p align="center">
   <img src="assets/readme/animations/normal_quadtrack_0012_original.gif" width="95%" alt="QuadTrack sequence 0012 normal-scene comparison">
+  <br><sub>QuadTrack: sequence 0012</sub>
 </p>
 
 ### Boundary Crossing Scene Comparisons
@@ -81,11 +77,11 @@ The following animated visualizations replace the previous static qualitative pa
   <tr>
     <td width="50%" align="center">
       <img src="assets/readme/animations/depth_boundary_jrdb_nvidia_aud.gif" width="100%" alt="JRDB nvidia-aud-2019-01-25_0">
-      <br><sub>Depth: JRDB nvidia-aud</sub>
+      <br><sub>JRDB nvidia-aud-2019-01-25_0</sub>
     </td>
     <td width="50%" align="center">
       <img src="assets/readme/animations/depth_boundary_jrdb_tressider.gif" width="100%" alt="JRDB tressider-2019-04-26_0">
-      <br><sub>Depth: JRDB tressider</sub>
+      <br><sub>JRDB tressider-2019-04-26_0</sub>
     </td>
   </tr>
 </table>
@@ -94,20 +90,20 @@ The following animated visualizations replace the previous static qualitative pa
   <tr>
     <td width="33%" align="center">
       <img src="assets/readme/animations/boundary_quadtrack_0006.gif" width="100%" alt="QuadTrack sequence 0006">
-      <br><sub>Boundary Crossing: QuadTrack 0006</sub>
+      <br><sub>QuadTrack 0006</sub>
     </td>
     <td width="33%" align="center">
       <img src="assets/readme/animations/boundary_quadtrack_0008.gif" width="100%" alt="QuadTrack sequence 0008">
-      <br><sub>Boundary Crossing: QuadTrack 0008</sub>
+      <br><sub>QuadTrack 0008</sub>
     </td>
     <td width="33%" align="center">
       <img src="assets/readme/animations/boundary_quadtrack_0005.gif" width="100%" alt="QuadTrack sequence 0005">
-      <br><sub>Boundary Crossing: QuadTrack 0005</sub>
+      <br><sub>QuadTrack 0005</sub>
     </td>
   </tr>
 </table>
 
-Tracking results:
+Tracking performance:
 
 | Dataset | HOTA | BCIC | IDF1 | AssA | MOTA | FPS |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
