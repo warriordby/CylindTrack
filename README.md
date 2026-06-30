@@ -53,85 +53,67 @@ During association, CylindTrack uses horizontal-periodic pixel-vertical IoU, DTM
 
 ## Visualizations
 
-The following videos replace the previous static qualitative panels. They show normal-scene comparisons, depth-related association behavior, and boundary-crossing cases where cylindrical modeling preserves trajectory continuity across panoramic seams.
+The following animated visualizations replace the previous static qualitative panels. They show normal-scene comparisons, depth-related association behavior, and boundary-crossing cases where cylindrical modeling preserves trajectory continuity across panoramic seams.
 
 ### Normal-Scene Comparisons
 
 **JRDB: nvidia-aud-2019-01-25_0, original comparison**
 
 <p align="center">
-  <video src="assets/readme/videos/normal_jrdb_nvidia_aud_original.mp4" width="95%" controls muted loop playsinline></video>
+  <img src="assets/readme/animations/normal_jrdb_nvidia_aud_original.gif" width="95%" alt="JRDB nvidia-aud original comparison">
 </p>
-
-[Open MP4](assets/readme/videos/normal_jrdb_nvidia_aud_original.mp4)
 
 **JRDB: nvidia-aud-2019-01-25_0, CylindTrack comparison**
 
 <p align="center">
-  <video src="assets/readme/videos/normal_jrdb_nvidia_aud_compare.mp4" width="95%" controls muted loop playsinline></video>
+  <img src="assets/readme/animations/normal_jrdb_nvidia_aud_compare.gif" width="95%" alt="JRDB nvidia-aud CylindTrack comparison">
 </p>
-
-[Open MP4](assets/readme/videos/normal_jrdb_nvidia_aud_compare.mp4)
 
 **QuadTrack: sequence 0009**
 
 <p align="center">
-  <video src="assets/readme/videos/normal_quadtrack_0009_original.mp4" width="95%" controls muted loop playsinline></video>
+  <img src="assets/readme/animations/normal_quadtrack_0009_original.gif" width="95%" alt="QuadTrack sequence 0009 normal-scene comparison">
 </p>
-
-[Open MP4](assets/readme/videos/normal_quadtrack_0009_original.mp4)
 
 **QuadTrack: sequence 0012**
 
 <p align="center">
-  <video src="assets/readme/videos/normal_quadtrack_0012_original.mp4" width="95%" controls muted loop playsinline></video>
+  <img src="assets/readme/animations/normal_quadtrack_0012_original.gif" width="95%" alt="QuadTrack sequence 0012 normal-scene comparison">
 </p>
-
-[Open MP4](assets/readme/videos/normal_quadtrack_0012_original.mp4)
 
 ### Depth-Related Visualizations
 
 **JRDB boundary association: nvidia-aud-2019-01-25_0**
 
 <p align="center">
-  <video src="assets/readme/videos/depth_boundary_jrdb_nvidia_aud.mp4" width="95%" controls muted loop playsinline></video>
+  <img src="assets/readme/animations/depth_boundary_jrdb_nvidia_aud.gif" width="95%" alt="JRDB nvidia-aud depth-related boundary association">
 </p>
-
-[Open MP4](assets/readme/videos/depth_boundary_jrdb_nvidia_aud.mp4)
 
 **JRDB boundary association: tressider-2019-04-26_0**
 
 <p align="center">
-  <video src="assets/readme/videos/depth_boundary_jrdb_tressider.mp4" width="95%" controls muted loop playsinline></video>
+  <img src="assets/readme/animations/depth_boundary_jrdb_tressider.gif" width="95%" alt="JRDB tressider depth-related boundary association">
 </p>
-
-[Open MP4](assets/readme/videos/depth_boundary_jrdb_tressider.mp4)
 
 ### Boundary-Crossing Visualizations
 
 **QuadTrack: sequence 0005**
 
 <p align="center">
-  <video src="assets/readme/videos/boundary_quadtrack_0005.mp4" width="95%" controls muted loop playsinline></video>
+  <img src="assets/readme/animations/boundary_quadtrack_0005.gif" width="95%" alt="QuadTrack sequence 0005 boundary-crossing visualization">
 </p>
-
-[Open MP4](assets/readme/videos/boundary_quadtrack_0005.mp4)
 
 **QuadTrack: sequence 0006**
 
 <p align="center">
-  <video src="assets/readme/videos/boundary_quadtrack_0006.mp4" width="95%" controls muted loop playsinline></video>
+  <img src="assets/readme/animations/boundary_quadtrack_0006.gif" width="95%" alt="QuadTrack sequence 0006 boundary-crossing visualization">
 </p>
-
-[Open MP4](assets/readme/videos/boundary_quadtrack_0006.mp4)
 
 **QuadTrack: sequence 0008**
 
 <p align="center">
-  <video src="assets/readme/videos/boundary_quadtrack_0008.mp4" width="95%" controls muted loop playsinline></video>
+  <img src="assets/readme/animations/boundary_quadtrack_0008.gif" width="95%" alt="QuadTrack sequence 0008 boundary-crossing visualization">
 </p>
-
-[Open MP4](assets/readme/videos/boundary_quadtrack_0008.mp4)
 
 Tracking results:
 
