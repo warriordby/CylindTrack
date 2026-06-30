@@ -69,14 +69,14 @@ Qualitative visualizations show that cylindrical modeling keeps trajectories con
   <img src="assets/readme/visualization_jrdb.png" width="95%" alt="JRDB boundary-crossing visualization">
 </p>
 
-Depth-enabled tracking results reported in the paper:
+tracking results:
 
 | Dataset | HOTA | BCIC | IDF1 | AssA | MOTA | FPS |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | QuadTrack | 33.674 | 54.957 | 40.446 | 34.665 | 20.583 | 28.56 |
 | JRDB | 31.117 | 35.365 | 34.331 | 31.347 | 31.219 | 21.34 |
 
-BCIC denotes Boundary Crossing Identity Consistency, a local identity-preservation metric around seam-crossing events. Compared with the strongest DepTR-MOT + ByteTrack baseline, CylindTrack improves BCIC by 24.38 points on QuadTrack and 13.51 points on JRDB.
+BCIC denotes Boundary Crossing Identity Consistency, a local identity-preservation metric around seam-crossing events. Compared with the strongest baseline, CylindTrack improves BCIC by 24.38 points on QuadTrack and 13.51 points on JRDB.
 
 <p align="center">
   <img src="assets/readme/params.png" width="76%" alt="Parameter sensitivity and BCIC window ablation">
