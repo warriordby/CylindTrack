@@ -78,10 +78,6 @@ tracking results:
 
 BCIC denotes Boundary Crossing Identity Consistency, a local identity-preservation metric around seam-crossing events. Compared with the strongest baseline, CylindTrack improves BCIC by 24.38 points on QuadTrack and 13.51 points on JRDB.
 
-<p align="center">
-  <img src="assets/readme/params.png" width="76%" alt="Parameter sensitivity and BCIC window ablation">
-</p>
-
 ## TODO
 
 - Release training, inference, and evaluation code.
