@@ -52,13 +52,6 @@ During association, CylindTrack uses horizontal-periodic pixel-vertical IoU, DTM
 </p>
 
 ## Visualizations
-
-The boundary distribution below illustrates why panoramic tracking needs topology-aware association: annotation gaps and ambiguous observations are concentrated near left/right seams and occluded regions.
-
-<p align="center">
-  <img src="assets/readme/boundary_distribution.png" width="70%" alt="Boundary annotation distribution and gaps">
-</p>
-
 Qualitative visualizations show that cylindrical modeling keeps trajectories continuous when the same target appears near opposite ERP boundaries, while direct UV tracking is more prone to fragmentation.
 
 <p align="center">
