@@ -79,23 +79,21 @@ The following animated visualizations replace the previous static qualitative pa
 ### Boundary Crossing Scene Comparisons
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <img src="assets/readme/animations/depth_boundary_jrdb_nvidia_aud.gif" width="100%" alt="JRDB nvidia-aud-2019-01-25_0">
       <br><sub>Depth: JRDB nvidia-aud</sub>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <img src="assets/readme/animations/depth_boundary_jrdb_tressider.gif" width="100%" alt="JRDB tressider-2019-04-26_0">
       <br><sub>Depth: JRDB tressider</sub>
     </td>
   </tr>
-</table>
-</table>
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <img src="assets/readme/animations/boundary_quadtrack_0006.gif" width="100%" alt="QuadTrack sequence 0006">
       <br><sub>Boundary Crossing: QuadTrack 0006</sub>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <img src="assets/readme/animations/boundary_quadtrack_0008.gif" width="100%" alt="QuadTrack sequence 0008">
       <br><sub>Boundary Crossing: QuadTrack 0008</sub>
     </td>
